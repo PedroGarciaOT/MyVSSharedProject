@@ -1,0 +1,6 @@
+@MyVSSharedProject_HostAddress = http://localhost:5215
+
+GET {{MyVSSharedProject_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
