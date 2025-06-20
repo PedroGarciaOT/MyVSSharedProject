@@ -1,0 +1,2 @@
+# MyVSSharedProject
+My shared project. 
